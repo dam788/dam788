@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi, I'm Hugo Morales 👋
+### Frontend Developer Junior 🌱
+
+![git](https://user-images.githubusercontent.com/60529414/116959290-9111a000-ac73-11eb-9be4-d6cfa5f2d361.png)
 
 <!--
 **dam788/dam788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
