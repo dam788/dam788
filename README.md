@@ -1,6 +1,6 @@
 ## Hi, I'm Hugo Morales 👋 Frontend Developer :computer:
 
-![git](https://user-images.githubusercontent.com/60529414/116962216-c9b57780-ac7b-11eb-9421-b8c2a595d5bb.png)
+![git](https://user-images.githubusercontent.com/60529414/116962411-3e88b180-ac7c-11eb-94fd-a08e128864df.png)
 
 #### Social Links:
 
