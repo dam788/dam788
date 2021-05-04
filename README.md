@@ -1,4 +1,4 @@
-## Hi, I'm Hugo Morales 👋 Frontend Developer Junior 🌱
+## Hi, I'm Hugo Morales 👋 Frontend Developer :computer:
 
 ![git](https://user-images.githubusercontent.com/60529414/116960324-6e34bb00-ac76-11eb-8bab-f2783e946c18.png)
 
