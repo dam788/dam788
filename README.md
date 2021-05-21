@@ -1,7 +1,7 @@
 ## Hello, I'm Hugo Morales 👋 
 ### Fullstack Javascript Dev:computer:
 
-![git](https://user-images.githubusercontent.com/60529414/116962411-3e88b180-ac7c-11eb-94fd-a08e128864df.png)
+![git](https://user-images.githubusercontent.com/60529414/119192440-8c603080-ba56-11eb-9071-2c0923497c82.png)
 
 #### Social Links:
 
