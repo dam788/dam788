@@ -5,8 +5,8 @@
 
 #### Social Links:
 
-:sparkles:  [Linkedin](https://www.linkedin.com/in/damdev/)
+📌  [Linkedin](https://www.linkedin.com/in/damdev/)
 
-:sparkles:  [Porfolio](https://damdev.netlify.app/)
+📌  [Porfolio](https://damdev.netlify.app/)
 
-:sparkles:  [Twitter](https://twitter.com/damdev88)
+📌  [Twitter](https://twitter.com/damdev88)
