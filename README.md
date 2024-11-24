@@ -1,5 +1,4 @@
-## Hello, I'm Hugo Morales 👋 
-### Javascript Dev:computer:
+## Hello, my name is Hugo. I'm a Fullstack Developer 👋 
 
 #### Social Links:
 
