@@ -4,7 +4,5 @@
 #### Social Links:
 
 📌  [Linkedin](https://www.linkedin.com/in/damdev/)
-
 📌  [Porfolio](https://damdev.netlify.app/)
 
-📌  [Twitter](https://twitter.com/damdev88)
