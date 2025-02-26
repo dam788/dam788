@@ -1,8 +1,6 @@
-## Hello, my name is Hugo. I'm a Fullstack Developer 👋 
+## Hi, I'm Dam and I'm a passionate software engineer. 👋 
 
-#### Social Links:
+If you want to meet me, talk about projects or collaborations, send me a DM on [Linkedin](https://www.linkedin.com/in/damdev/)
 
-📌  [Linkedin](https://www.linkedin.com/in/damdev/)
-
-📌  [Porfolio](https://damdev.netlify.app/)
+*_Good codes !!_* 
 
